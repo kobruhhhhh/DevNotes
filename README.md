@@ -1,11 +1,11 @@
 # DevNotes
 Simple note app (for coding) in Dark Theme | Python-Kivy 
 
-+ requirements
++ Requirements
 ```bash
 pip install kivy
 ```
-+ run
++ Run
 ```bash
 python3 main.py
 ```
